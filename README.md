@@ -1,5 +1,4 @@
-# [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
-
+## Bakullama
 <a href="https://github.com/bakullama/bakullama">
 
 ![](https://github.com/bakullama/bakullama/blob/master/generated/overview.svg)
