@@ -1,8 +1,8 @@
 ## Bakullama
 <a href="https://github.com/bakullama/bakullama">
 
-![](https://github.com/bakullama/bakullama/blob/master/generated/overview.svg)
-![](https://github.com/bakullama/bakullama/blob/master/generated/languages.svg)
+![](https://github.com/bakullama/bakullama/blob/main/generated/overview.svg)
+![](https://github.com/bakullama/bakullama/blob/main/generated/languages.svg)
 
 </a>
 
