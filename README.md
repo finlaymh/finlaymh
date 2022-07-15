@@ -1,8 +1,8 @@
-## Bakullama
-<a href="https://github.com/bakullama/bakullama">
+## Finlay Haggar
+<a href="https://github.com/finlaymh/finlaymh">
 
-![](https://github.com/bakullama/bakullama/blob/main/generated/overview.svg)
-![](https://github.com/bakullama/bakullama/blob/main/generated/languages.svg)
+![](https://github.com/finlaymh/finlaymh/blob/main/generated/overview.svg)
+![](https://github.com/finlaymh/finlaymh/blob/main/generated/languages.svg)
 
 </a>
 
